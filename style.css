@@ -1,0 +1,38 @@
+body {
+	background-color: #EAF6F6;
+}
+ 
+hr {
+	border-style: none;
+	border-top-style: dotted;
+	border-color: grey;
+	border-width: 5px;
+	width: 10%;
+}
+h1 {
+	color: white;
+}
+h2 {
+	color: #66BFBF;
+}
+h3 {
+	color: #66BFBF;
+}
+.dude {
+	background-color: blue;
+} 
+.Initial {
+	background-color: blue;
+}
+.ICT {
+	color: white;
+}
+.BPT {
+	color: white;
+}
+.DOB {
+	color: white;
+}
+.resume_left {
+	color: white;
+}
